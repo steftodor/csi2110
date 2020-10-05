@@ -1,4 +1,4 @@
-// Writen by Stefan Todorovic 300118046 for CSI2110 Assignment 2 
+// Writen by Stefan Todorovic for CSI2110 Assignment 2
 
 import java.util.*;
 public class GreatStack{
